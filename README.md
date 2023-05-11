@@ -18,7 +18,7 @@ on both Intel (x86_64) and Apple silicon (arm64) Macs.
 
 ### Swift Package Manager
 
-You can add the OpenTok MacOS SDK by adding the https://github.com/opentok/vonage-client-sdk-video-macos.git repository as a Swift Package Dependency.
+You can add the OpenTok MacOS SDK by adding the https://github.com/vonage/vonage-client-sdk-video-macos.git repository as a Swift Package Dependency.
 To add a package dependency to your Xcode project, select *File* > *Swift Packages* > *Add Package Dependency* and enter its repository URL.
 
 ### Cocoapods
