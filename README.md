@@ -1,38 +1,38 @@
-# OpenTok macOS SDK
+# Vonage Client SDK Video MacOS
 
-Apps written with the OpenTok macOS SDK 2.25.0 can interoperate with OpenTok apps
-written with version 2.23+ of the OpenTok client SDKs:
+Apps written with the Vonage Client SDK Video MacOS 2.25.0 can interoperate with Vonage apps
+written with version 2.23+ of the Vonage client SDKs:
 
-* OpenTok.js
-* OpenTok Android SDK
-* OpenTok iOS SDK
-* OpenTok Windows SDK
-* OpenTok Linux SDK
+* Vonage.js
+* Vonage Android SDK
+* Vonage iOS SDK
+* Vonage Windows SDK
+* Vonage Linux SDK
 
-The OpenTok macOS SDK is a C library.
+The Vonage Client SDK Video MacOS is a C library.
 
 ## System requirements
 
-The OpenTok macOS SDK is supported on macOS 10.12 or higher;
+The Vonage Client SDK Video MacOS is supported on macOS 10.12 or higher;
 on both Intel (x86_64) and Apple silicon (arm64) Macs.
 
 ### Swift Package Manager
 
-You can add the OpenTok MacOS SDK by adding the https://github.com/vonage/vonage-client-sdk-video-macos.git repository as a Swift Package Dependency.
+You can add the Vonage Client SDK Video MacOS by adding the https://github.com/vonage/vonage-client-sdk-video-macos.git repository as a Swift Package Dependency.
 To add a package dependency to your Xcode project, select *File* > *Swift Packages* > *Add Package Dependency* and enter its repository URL.
 
 ### Cocoapods
 
-The OpenTok macOS SDK is also available as the Pod "VonageClientSDKVideoMacOS", for use with
+The Vonage Client SDK Video MacOS is also available as the Pod "VonageClientSDKVideoMacOS", for use with
 [CocoaPods](http://cocoapods.org/).
 
 ## Using the SDK
 
-The OpenTok.xcframework directory contains the OpenTok macOS SDK.
+The OpenTok.xcframework directory contains the Vonage Client SDK Video MacOS.
 
-The OpenTok macOS SDK requires Xcode 11 or higher.
+The Vonage Client SDK Video MacOS requires Xcode 11 or higher.
 
-The OpenTok macOS SDK requires the following frameworks and libraries:
+The Vonage Client SDK Video MacOS requires the following frameworks and libraries:
 
 * AudioToolbox.framework
 * AVFoundation.framework
