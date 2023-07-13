@@ -19,8 +19,8 @@ let package = Package(
     ],
     targets: [
         .binaryTarget(name: "OpenTok",
-                      url: "https://s3.amazonaws.com/artifact.tokbox.com/rel/macos-sdk/vonage-macos-sdk-2.25.2.zip",
-                      checksum: "92c389664ebb0d5f367825bcc467c00f1f83b216812162e9134eb5287f48e29c"),
+                      url: "https://s3.amazonaws.com/artifact.tokbox.com/rel/macos-sdk/vonage-macos-sdk-2.25.3.zip",
+                      checksum: "b24dd752000c23296cab2b6108843bad1075518d48eda3913611b9a1957913c5"),
         .target(name: "VonageClientSDKVideoMacOS",
                 path: "Sources",
                 linkerSettings: [
