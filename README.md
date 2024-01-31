@@ -1,6 +1,6 @@
 # Vonage Client SDK Video MacOS
 
-Apps written with the Vonage Client SDK Video MacOS 2.27.0 can interoperate with Vonage apps
+Apps written with the Vonage Client SDK Video MacOS 2.27.1 can interoperate with Vonage apps
 written with version 2.25+ of the Vonage client SDKs:
 
 * Vonage.js
