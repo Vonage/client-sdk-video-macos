@@ -1,6 +1,6 @@
-> ⚠️ **This Library has been deprecated in favour of the [Vonage iOS SDK Samples](https://github.com/Vonage/vonage-video-ios-sdk-samples)** ⚠️
+> ## ⚠️ This Library has been deprecated in favour of the [Vonage iOS SDK Samples](https://github.com/Vonage/vonage-video-ios-sdk-samples) ⚠️
 >
-> **Product deprecation notice**
+> ### Product deprecation notice
 >
 > The macOS SDK is being deprecated on 31st December, 2025. Existing applications will continue to work uninterrupted until this date.
 > Customers looking to build for macOS natively, can use JS SDK with Electron, or contact your account managers or support for help.
