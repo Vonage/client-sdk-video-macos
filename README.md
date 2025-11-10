@@ -1,4 +1,4 @@
-> ⚠️ **This Library has been deprecated in favour of the [Opentok iOS SDK](https://github.com/opentok/opentok-ios-sdk-samples)** ⚠️
+> ⚠️ **This Library has been deprecated in favour of the [Vonage iOS SDK Samples](https://github.com/Vonage/vonage-video-ios-sdk-samples)** ⚠️
 >
 > **Product deprecation notice**
 >
