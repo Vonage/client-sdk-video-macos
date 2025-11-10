@@ -1,3 +1,10 @@
+> ⚠️ **This Library has been deprecated in favour of the [Opentok iOS SDK](https://github.com/opentok/opentok-ios-sdk-samples)** ⚠️
+>
+> **Product deprecation notice**
+>
+> The macOS SDK is being deprecated on 31st December, 2025. Existing applications will continue to work uninterrupted until this date.
+> Customers looking to build for macOS natively, can use JS SDK with Electron, or contact your account managers or support for help.
+
 # Vonage Client SDK Video MacOS
 
 Apps written with the Vonage Client SDK Video MacOS 2.27.1 can interoperate with Vonage apps
