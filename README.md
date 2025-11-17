@@ -1,3 +1,9 @@
+⚠️ **Product deprecation notice** ⚠️
+
+Version 2.31 is the final release, and no new versions will be developed going forward. Support for this SDK will continue until version 2.31 reaches end of support. For the support timeline, please refer to the lifecycle documentation [here](https://developer.vonage.com/en/video/guides/enterprise-environment#enterprise-environment-1). After this period, the SDK will reach end of life (EOL) and will no longer receive maintenance or support.
+
+For more information, please visit [this page](https://developer.vonage.com/en/video/client-sdks/macos/overview).
+
 # Vonage Client SDK Video MacOS
 
 Apps written with the Vonage Client SDK Video MacOS 2.27.1 can interoperate with Vonage apps
