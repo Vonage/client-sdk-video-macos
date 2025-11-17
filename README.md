@@ -1,5 +1,3 @@
-> ## ⚠️ This Library has been deprecated in favour of the [Vonage iOS SDK Samples](https://github.com/Vonage/vonage-video-ios-sdk-samples) ⚠️
->
 > ### Product deprecation notice
 >
 > Version 2.31 is the final release, and no new versions will be developed going forward. Support for this SDK will continue until version 2.31 reaches end of support. For the support timeline, please refer to the lifecycle documentation <a href="https://developer.vonage.com/en/video/guides/enterprise-environment#enterprise-environment-1">here</a>. After this period, the SDK will reach end of life (EOL) and will no longer receive maintenance or support.
